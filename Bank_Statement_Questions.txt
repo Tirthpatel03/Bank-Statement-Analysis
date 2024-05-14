@@ -1,0 +1,25 @@
+1) Total Income and Total Expense
+
+2) Monthly Spending Patterns
+
+3) Highest Expenses
+
+4) Average Monthly Balance
+
+5) Income vs Expenses over Time
+
+6) Day of the Week Analysis
+
+7) Top Income Sources
+
+8) Net Cash Flow
+
+9)Transaction Frequency Analysis
+
+10) Monthly Withdrawal and Deposit Amounts
+
+11) Transaction Volume Trend
+
+12) Monthly Withdrawal vs Deposit Comparison
+
+13) Expenses by Day of the Month
